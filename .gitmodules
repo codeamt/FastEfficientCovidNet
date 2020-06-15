@@ -1,0 +1,12 @@
+[submodule "mle-capstone-data"]
+	path = mle-capstone-data
+	url = https://github.com/codeamt/mle-capstone-data.git
+	branch = master
+[submodule "mle-capstone-modeling"]
+	path = mle-capstone-modeling
+	url = https://github.com/codeamt/mle-capstone-modeling.git
+	branch = master
+[submodule "mle-capstone-deployment"]
+	path = mle-capstone-deployment
+	url = https://github.com/codeamt/mle-capstone-deployment.git
+	branch = master
