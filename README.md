@@ -2,7 +2,7 @@
 This GitHub Repository contains my final project for Udacity's Machine Learning Engineer Nanodegree
 
 ## About 
-This is a Chest X-Ray (CXR) classification API. Building on previous work of [1](https://arxiv.org/pdf/2003.09871v3.pdf), the CovNet model for this ML project utilizes a pre-trained EfficientNet-b1 to extract features and a fine-tuned Fast.ai classifier to differentiate between infection classes (Normal, Viral Pneumonia, or COVID-19) with 95% test accuracy. 
+This is a Chest X-Ray (CXR) classification API. Building on previous work of [[1]](https://arxiv.org/pdf/2003.09871v3.pdf), the CovNet model for this ML project utilizes a pre-trained EfficientNet-b1 to extract features and a fine-tuned Fast.ai classifier to differentiate between infection classes (Normal, Viral Pneumonia, or COVID-19) with 95% test accuracy. 
  
  ## Repo Contents: 
  - [mle-capstone-data (submodule)](https://github.com/codeamt/mle-capstone-data/tree/f5839f2592a836376406fc07c3a981218f2e3794)
