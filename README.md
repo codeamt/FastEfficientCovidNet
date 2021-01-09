@@ -1,4 +1,4 @@
-# udacity-mle-capstone-project
+# Fast Efficient CovidNet -  An End-to-End Pipeline
 This GitHub Repository contains my final project for Udacity's Machine Learning Engineer Nanodegree
 
 ## About 
